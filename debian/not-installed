@@ -1,0 +1,12 @@
+usr/share/gocode/src/github.com/danos/ephemera/cmd/activate/main.go
+usr/share/gocode/src/github.com/danos/ephemera/cmd/deactivate/main.go
+usr/share/gocode/src/github.com/danos/ephemera/cmd/ephemerad/main.go
+usr/share/gocode/src/github.com/danos/ephemera/ephemera.go
+usr/share/gocode/src/github.com/danos/ephemera/ephemera_test.go
+usr/share/gocode/src/github.com/danos/ephemera/testdata/test.instance
+usr/share/gocode/src/github.com/danos/ephemera/testdata/testrun
+usr/share/gocode/src/github.com/danos/ephemera/testdata/testrun.instance
+usr/share/gocode/src/github.com/danos/ephemera/testdata/testrunerr
+usr/share/gocode/src/github.com/danos/ephemera/testdata/testrunerr.instance
+usr/share/gocode/src/github.com/danos/ephemera/testdata/testrunstderr
+usr/share/gocode/src/github.com/danos/ephemera/testdata/testrunstderr.instance
