@@ -19,13 +19,13 @@ Vcs-Browser: https://github.com/nudanos/ephemerad
 
 Package: ephemerad
 Architecture: any
-Depends: ${shlibs:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Ephemeral VCI component manager
  A daemon that allows VCI components to be implemented by a set of scripts
 
 Package: ephemerad-v1-yang
 Architecture: all
-Depends: ephemerad (>= ${binary:Version}), ${yang:Depends}
+Depends: ephemerad (>= ${binary:Version}), ${yang:Depends}, ${misc:Depends}
 Section: admin
 Description: Ephemeral component manager YANG definition
  The YANG definition for a ephemeral component manager.
